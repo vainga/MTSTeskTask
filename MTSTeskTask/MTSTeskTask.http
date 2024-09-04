@@ -1,0 +1,6 @@
+@MTSTeskTask_HostAddress = http://localhost:5236
+
+GET {{MTSTeskTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
